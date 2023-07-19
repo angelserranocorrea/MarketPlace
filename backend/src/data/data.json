@@ -1,0 +1,72 @@
+[
+    {
+      
+        "_id": "64acfe1efebd5d00024c3364",
+        "titulo": "TimeLeap VR: Explorando Épocas Pasadas",
+        "descripcion": "Viaja en el tiempo y descubre épocas fascinantes con TimeLeap VR! Sumérgete en civilizaciones antiguas, presencia eventos históricos y vive la emoción de interactuar con personajes legendarios. Conviértete en un testigo privilegiado de la historia y déjate llevar por la magia de la realidad virtual mientras exploras el pasado de una manera completamente nueva.",
+        "precio": 20,
+        "image_url": ""
+    
+    },
+    {
+      "_id": "64acfe1efebd5d00024c3365",
+       "titulo":"Virtual Stage: Conciertos Inmersivos",
+       "descripcion":"¿Quieres vivir la emoción de un concierto en primera fila? Con Virtual Stage, podrás disfrutar de la experiencia completa de un concierto en realidad virtual. Baila al ritmo de tus artistas favoritos, siente la energía del escenario y sumérgete en un ambiente lleno de luces y sonidos.¡Prepárate para vivir la música como nunca antes!. ",
+       "precio":30,
+       "image_url":""
+    },
+    {
+        "_id": "64acfe1efebd5d00024c3366",
+        "titulo":"Idol Encounter:Vive el Encuentro de tus Sueños",
+        "descripcion":"¿Alguna vez has soñado con conocer a tu ídolo? Con Idol Encounter, tu sueño se hace realidad. Interactúa con tu estrella favorita en un entorno virtual y experimenta momentos únicos e inolvidables. Desde conversaciones cercanas hasta actividades exclusivas, estarás más cerca que nunca de tu ídolo. ¡Prepárate para sentir la emoción de estar cara a cara con la celebridad que tanto admiras!",
+        "precio":50,
+        "image_url":""
+  
+    },
+    {
+      "_id": "64acfe1efebd5d00024c3367",
+      "titulo":"Virtual Transcendence:La IA te Convierte en Alguien Nuevo",
+      "descripcion":"Explora nuevas facetas de tu personalidad con Virtual Transcendence. La inteligencia artificial se encargará de llevar a cabo conversaciones desafiantes en tu nombre, permitiéndote enfrentar situaciones difíciles y aprender de ellas. Desarrolla habilidades de comunicación, mejora tu confianza y experimenta una transformación personal en un entorno virtual seguro y controlado.",
+      "precio":"",
+      "image_url":""
+    
+    },
+    {
+      "_id": "64acfe1efebd5d00024c3369",
+       "titulo":"Ancestral Journeys:Descubre a tus Antepasados en VR",
+       "descripcion":"Viaja en el tiempo y conoce a tus antepasados con Ancestral Journeys. Sumérgete en el pasado y experimenta la vida de tus familiares antiguos a través de reconstrucciones históricas en realidad virtual. Desde el estilo de vida hasta las tradiciones, tendrás la oportunidad de comprender y conectarte con tus raíces de una manera única y emocionante. Descubre tu herencia y despierta la curiosidad por tu linaje familiar.",
+       "precio":"",
+       "image_url":""
+    },
+    {
+      "_id": "64acfe1efebd5d00024c3368",
+     "titulo":"",
+     "descripcion":"",
+     "precio":"",
+     "image_url":""
+    },
+    {
+      "_id": "64acfe1efebd5d00024c336a",
+      "titulo":"",
+      "descripcion":"",
+      "precio":"",
+      "image_url":""
+   
+    },
+    {
+      "_id": "64acfe1efebd5d00024c336b",
+      "titulo":"",
+      "descripcion":"",
+      "precio":"",
+      "image_url":""
+      
+    },
+    {
+      "_id": "64acfe1efebd5d00024c336f",
+      "titulo":"",
+      "descripcion":"",
+      "precio":"",
+      "image_url":""
+    
+    }
+]
